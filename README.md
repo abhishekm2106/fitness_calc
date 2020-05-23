@@ -3,6 +3,8 @@ A basic fitness calculator which calculates<strong> BMI,BMR and body fat percent
  
 If using the jupyter notebook the then run each code block in sequential order and the mai interface will open up after running the last code block.
 
+<strong> Do install Tkinter library in your python interpreter before running the code</strong>
+
 UI:
 
 Main Interface
